@@ -1,5 +1,5 @@
 # OpenGL-Simple-Shader-Class
-Simple class for OpenGL Shaders based on [LearnOpengl.com](learnopengl.com) course.
+Simple class for OpenGL Shaders based on [LearnOpengl.com](https://learnopengl.com) course.
 
 ## Usage
 ```cpp
